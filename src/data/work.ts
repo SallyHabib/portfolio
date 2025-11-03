@@ -11,6 +11,31 @@ export const workIcons = {
 
 export const work = [
   {
+    title: 'Senior Backend Engineer',
+    company: 'Flowla',
+    region: 'London, United Kingdom (Remote)',
+    description: [
+      'Migrated using yarn to bun for faster package installation and reduced bundle size.',
+      'Added full dockerization of the app to make it easier to deploy and scale.',
+      'Migrated app from EC2 to ECS for faster deployment and scalability.',
+    ],
+    technologies: [
+      'NestJS',
+      'TypeScript',
+      'Socket.io',
+      'Redis',
+      'Bun',
+      'Docker',
+      'ECS',
+      'EC2',
+      'Lambda',
+      'EventBridge',
+      'Serverless Framework',
+      'GitHub Actions',
+      'Terraform',
+    ],
+  },
+  {
     title: 'Backend Team Lead & AWS Architect',
     company: 'DevGurus',
     region: 'United States (Remote)',
