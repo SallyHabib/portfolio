@@ -1,8 +1,8 @@
-# Andrew Ghobrial - Portfolio
+# Sally Habib - Portfolio
 
 A modern, responsive portfolio website built with Astro, showcasing my work as a Senior Backend Developer and Cloud Architect.
 
-🌐 **Live Site**: [andrewakg.dev](https://andrewakg.dev)
+🌐 **Live Site**: [sallyhabib.dev](https://sallyhabib.dev)
 
 ## ✨ Features
 
@@ -33,7 +33,7 @@ A modern, responsive portfolio website built with Astro, showcasing my work as a
 ### Deployment
 
 - **Netlify** - Hosting and CI/CD
-- **Custom Domain** - andrewakg.dev
+- **Custom Domain** - sallyhabib.dev
 
 ## 🚀 Getting Started
 
@@ -47,7 +47,7 @@ A modern, responsive portfolio website built with Astro, showcasing my work as a
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/AndrewAKG/portfolio.git
+   git clone https://github.com/SallyHabib/portfolio.git
    cd portfolio
    ```
 
@@ -187,9 +187,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Website**: [andrewakg.dev](https://andrewakg.dev)
-- **LinkedIn**: [andrew-akg](https://www.linkedin.com/in/andrew-akg/)
-- **GitHub**: [AndrewAKG](https://github.com/AndrewAKG)
+- **Website**: [sallyhabib.dev](https://sallyhabib.dev)
+- **LinkedIn**: [sally-habib](https://www.linkedin.com/in/sallyhabib97/)
+- **GitHub**: [SallyHabib](https://github.com/SallyHabib)
 
 ---
 

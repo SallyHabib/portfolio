@@ -1,6 +1,6 @@
 // Place any global data in this file.
 // You can import this data from anywhere in your site by using the `import` keyword.
 
-export const SITE_TITLE = 'Andrew Ghobrial – Personal Blog & Portfolio';
+export const SITE_TITLE = 'Sally Habib – Frontend Engineer Portfolio';
 export const SITE_DESCRIPTION =
-  'Growth engineering, analytics, and product marketing notes. Case studies, experiments, and projects by Andrew Ghobrial.';
+  'Frontend engineer with expertise in React, TypeScript, and modern web development. Building accessible, performant user interfaces.';

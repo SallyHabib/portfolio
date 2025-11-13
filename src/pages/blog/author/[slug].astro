@@ -10,15 +10,15 @@ export async function getStaticPaths() {
   const posts = await getCollection('blog');
   const authorSlugs = [
     ...new Set(
-      posts.map((p) => slugify(p.data.author || 'Andrew Ghobrial'))
+      posts.map((p) => slugify(p.data.author || 'Sally Habib'))
     ),
   ];
   return authorSlugs.map((slug) => ({ params: { slug } }));
 }
 
 const { slug } = Astro.params;
-const posts = (await getCollection('blog')).filter((p) => slugify(p.data.author || 'Andrew Ghobrial') === slug);
-const authorName = posts[0]?.data.author || 'Andrew Ghobrial';
+const posts = (await getCollection('blog')).filter((p) => slugify(p.data.author || 'Sally Habib') === slug);
+const authorName = posts[0]?.data.author || 'Sally Habib';
 ---
 <html lang="en" data-theme="dark" class="dark">
   <head>

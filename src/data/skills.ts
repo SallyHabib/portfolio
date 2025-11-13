@@ -1,27 +1,27 @@
 export const skills = [
   {
-    icon: `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 3h8v8H3V3zm10 0h8v8h-8V3zM3 13h8v8H3v-8zm10 0h8v8h-8v-8z"/></svg>`,
-    title: 'System Design & Architecture',
+    icon: `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>`,
+    title: 'Frontend Development',
     description:
-      'Designing scalable, secure, and cost-aware systems with clear service boundaries and pragmatic trade-offs.',
+      'Building modern, responsive user interfaces with React, TypeScript, HTML, CSS, and JavaScript.',
   },
   {
     icon: `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 17l-5-5 5-5v3l-2 2 2 2v3zm8-10l5 5-5 5v-3l2-2-2-2V7z"/></svg>`,
-    title: 'Backend APIs & Integrations',
+    title: 'State Management & Data Fetching',
     description:
-      'Building reliable REST services and integrating external platforms with queues, background jobs, and safeguards.',
+      'Managing application state with Redux, Saga, and React Query for optimal data flow and performance.',
+  },
+  {
+    icon: `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>`,
+    title: 'UI/UX & Accessibility',
+    description:
+      'Creating accessible, user-friendly interfaces with Material UI, React Aria, and WCAG compliance.',
   },
   {
     icon: `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M19 18H6a4 4 0 010-8 5 5 0 019.9-1.5A4.5 4.5 0 1119 18z"/></svg>`,
-    title: 'Cloud & DevOps (CI/CD & IaC)',
+    title: 'Development Tools & DevOps',
     description:
-      'Automating delivery pipelines and infrastructure with best practices for security, repeatability, and speed.',
-  },
-  {
-    icon: `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 1010 10A10 10 0 0012 2zm-1 15l-4-4 1.41-1.41L11 14.17l6.59-6.59L19 9l-8 8z"/></svg>`,
-    title: 'Observability & Reliability',
-    description:
-      'Monitoring, alerting, and performance tuning to maintain SLAs and ensure dependable user experiences.',
+      'Using GitHub Actions, Jira, Sentry, Mix Panel, and Sonar Cube for efficient development workflows.',
   },
 ];
 

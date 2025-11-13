@@ -4,8 +4,8 @@ import { writeFile, mkdir } from 'node:fs/promises';
 const source = 'src/assets/logos/logo-1024.png'; // put your Canva PNG here
 const config = {
   path: '/', // href path used in generated HTML
-  appName: 'Andrew Ghobrial',
-  appDescription: 'Andrew Ghobrial',
+  appName: 'Sally Habib',
+  appDescription: 'Sally Habib',
   icons: {
     android: true, // 192x192, 512x512
     appleIcon: true, // 180x180
